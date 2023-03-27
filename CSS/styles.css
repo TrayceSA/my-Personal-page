@@ -1,0 +1,20 @@
+body {
+  background-color: #cac6c6;
+}
+img {
+  height: 200px;
+  border-radius: 60%;
+}
+h1 {
+  Color: #251B37;
+}
+h3 {
+  color:#251B37;
+}
+hr {
+  border: 0;
+  height: 3px;
+  background: #095484;
+  background-image: linear-gradient(to right, #ccc, #095484, #ccc);
+ 
+}
